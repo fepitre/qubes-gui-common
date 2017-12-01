@@ -1,6 +1,7 @@
 RPM_SPEC_FILES := rpm_spec/gui-common.spec
 ARCH_BUILD_DIRS := archlinux
 DEBIAN_BUILD_DIRS := debian
+GENTOO_BUILD_DIRS := gentoo
 WIN_COMPILER := custom
 WIN_BUILD_CMD := true
 WIN_SOURCE_SUBDIRS := .
